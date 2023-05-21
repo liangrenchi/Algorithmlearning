@@ -91,7 +91,6 @@ class SingleLinkedList{
         }
     }
 
-
     public void printList(){
         if (head.next == null){
             System.out.println("链表为空，无法遍历");
